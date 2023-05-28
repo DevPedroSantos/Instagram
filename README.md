@@ -29,7 +29,7 @@
 <div>
   <h2 align="end">Conclusão</h2>
    <p>
-    No geral, o projeto foi uma ótima oportunidade para aplicar os conhecimentos adquiridos em React.js e aprimorar minhas habilidades de desenvolvimento de aplicativos     web. Além disso, foi gratificante ver o resultado final funcionando perfeitamente e atendendo às expectativas do cliente.
+    No geral, o projeto foi uma ótima oportunidade para aplicar os conhecimentos adquiridos em React.js e aprimorar minhas habilidades de desenvolvimento de aplicações web. Além disso, foi gratificante ver o resultado final funcionando perfeitamente e atendendo às expectativas do cliente.
    </p>
 </div>
 
