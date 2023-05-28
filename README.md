@@ -37,7 +37,7 @@
 
 <div>
   <p align="end"><em>Imagem do projeto desenvolvido</em></p>
-  <img src="https://user-images.githubusercontent.com/125465461/234576094-41e9aefe-5f9d-4ee1-86d1-3317450d801b.png">
+  <img src="https://github.com/DevPedroSantos/Instagram/assets/102003471/e3b48459-3e1d-4e8c-8e89-c6cccd3352e3">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=120&section=footer"/>
