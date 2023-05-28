@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=120&section=header"/>
-
 <div>
   <h1 align="center">Projeto Clone do Istagram</h1>
 </div>
@@ -38,5 +36,3 @@
   <p align="end"><em>Imagem do projeto desenvolvido</em></p>
   <img src="https://github.com/DevPedroSantos/Instagram/assets/102003471/e3b48459-3e1d-4e8c-8e89-c6cccd3352e3">
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D8FF&height=120&section=footer"/>
