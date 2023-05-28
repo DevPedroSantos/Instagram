@@ -13,7 +13,6 @@
       <p>As Ferramentas utilizadas nesse projeto foram:</p>
         <ul>
           <li>React.Js</li>
-          <li>Photoshop</li>
         </ul>
     </div>
 </div>
