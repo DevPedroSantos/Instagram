@@ -1,0 +1,29 @@
+.container  {
+    display: flex;
+}
+
+.card {
+    border: 3px solid #e9045c;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 3rem 1rem;
+}
+
+.card img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.name {
+    margin: 0.5rem -1rem;
+    text-align: center;
+    font-size: 9pt;
+}
+
+p {
+    cursor: pointer;
+}
