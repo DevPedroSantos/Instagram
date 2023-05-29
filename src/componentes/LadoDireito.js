@@ -21,7 +21,7 @@ function LadoDireito() {
 
             <div className={styles.container}>
                 <div className={styles.card}>
-                    <img src={Penguim} alt="Penguim" />
+                    <img src={Penguim} alt="Pinguim" />
                 </div>
                 <p>Penguim</p>
                 <h5>Seguir</h5>
