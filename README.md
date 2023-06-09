@@ -6,7 +6,7 @@
  <h2 align="end">Introdução</h2>
   <p>Olá Dev! Seja Bem-Vindo ao meu projeto Clone do Instagram, esse é um projeto acadêmico desenvolvido utilizando o React.Js através dos conhecimentos adquiridos em meus estudos no Instituto PROA.</p>
   <p>O Objetivo do desenvolvimento desse projeto, além de ajudar no aprimoramento de meus conhecimentos e recriar uma réplica do Instagram da melhor forma possível.  </p>
-    <div style="display: flex;">
+    <div style="display: flex">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="100px" align='left'>
       <p>As Ferramentas utilizadas nesse projeto foram:</p>
         <ul>
